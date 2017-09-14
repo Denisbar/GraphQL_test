@@ -1,0 +1,70 @@
+{
+    "cars": [
+        {
+          "id": 1,
+          "title": "Audi",
+          "list": [2, 1],
+          "rating": 10
+        },
+        {
+            "id": 2,
+            "title": "BMW",
+            "list": [3, 5],
+            "rating": 9
+        },
+        {
+            "id": "3",
+            "title": "Mercedes",
+            "list": [29, 19],
+            "rating": "10"
+          },
+          {
+            "id": "4",
+            "title": "Reno",
+            "list": [2, 1],
+            "rating": "7"
+          },
+          {
+            "id": "5",
+            "title": "Mazda",
+            "list": [27, 1],
+            "rating": "6"
+          },
+          {
+            "id": "6",
+            "title": "Porshe",
+            "list": [2, 1],
+            "rating": "10"
+          },
+          {
+            "id": "7",
+            "title": "Toyota",
+            "list": [20, 10],
+            "rating": "8"
+          },
+          {
+            "id": "8",
+            "title": "Nissan",
+            "list": [5, 10],
+            "rating": "10"
+          },
+          {
+            "id": "9",
+            "title": "Moskvich",
+            "list": [2, 1],
+            "rating": "1"
+          },
+          {
+            "id": "10",
+            "title": "Tesla",
+            "list": [22, 15],
+            "rating": "10"
+          },
+          {
+            "id": "11",
+            "title": "Seat",
+            "list": [22, 15],
+            "rating": "5"
+          }
+    ]
+}    
